@@ -1,9 +1,15 @@
-## Hi there 👋
+### Hi, I'm Ningyu 👋 
+
+- 💻 I'm a self-taught full-stack engineer currently focused on building data products.
+- 🔨 My tech toolkit includes: Python, Javascript, SQL, React, Django, FastAPI, and Snowflake.
+
 
 <!--
 **ningyuc/ningyuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
